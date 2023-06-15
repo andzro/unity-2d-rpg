@@ -1,0 +1,12 @@
+# Unity generated
+/Library/
+/Temp/
+/Obj/
+/Build/
+/ProjectSettings/
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
