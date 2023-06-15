@@ -29,6 +29,10 @@ public class PlayerManager : MonoBehaviour
         PartyMembers = new List<PlayerCharacter>();
         ReservedMembers = new List<PlayerCharacter>();
         Items = new List<Item>();
+
+        // Add Hikari as the first party member
+        Hikari hikari = new Hikari();
+        PartyMembers.Add(hikari);
     }
 
     // Add methods to manage player data as needed

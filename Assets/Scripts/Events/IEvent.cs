@@ -1,4 +1,4 @@
 public interface IEvent
 {
-    void Execute();
+    void ExecuteEvent();
 }
