@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BattleEvent : EventBase
 {
@@ -27,5 +28,7 @@ public class BattleEvent : EventBase
             Debug.Log("Enemy Mob: " + enemyMob.Name);
         }
         // Example battle mechanics go here
+
+        SceneManager.LoadScene("BattleScene");
     }
 }

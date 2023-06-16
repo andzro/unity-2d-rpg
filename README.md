@@ -24,14 +24,14 @@ The following components and features have been implemented in the project:
 - `MenuController`: Handles the menu functionality, such as button clicks and event execution.
 
 ## Installation and Setup
-- Clone the repository to your local machine.
-- Open the Unity project using Unity Editor (version XYZ or higher).
-- Configure any necessary project settings, import missing assets, etc.
-- Run the game in the Unity Editor or build it for the desired platform.
+To run the game, follow these steps:
+1. Clone the repository to your local machine.
+2. Open the Unity project using Unity Editor (version XYZ or higher).
+3. Configure any necessary project settings, import missing assets, etc.
+4. Run the game in the Unity Editor or build it for the desired platform.
 
 ## Contributing
 This project is currently not accepting contributions as it is being developed by Andzro. However, feel free to fork the repository and create your own version of the game based on this codebase.
 
 ## Contact
 For any inquiries or questions, please contact andzro@hotmail.com.
-
